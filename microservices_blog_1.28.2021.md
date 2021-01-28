@@ -16,7 +16,7 @@ with microservice architecture.
 
 I also liked how the blog explained the difference in granularities between Microservices, Miniservices and Macroservices.
 I think last class we really drove home the great features of microservices, so I was left wondering why any company wouldn't
-use this architecture, so it was interesting to see the pros/cons and usages of each service granularity. One sentence
+use this architecture, so it was interesting to see the pros/cons and usages of each service granularity. Something that Gartner states
 that stood out to me was "When building a new application, you should implement most capabilities as coarse-grained miniservices,
 unless you have a compelling arcitectural reason to adopt coarser- or finer-grained granularity. When rearchitecting an existing
 application, leave functionality in the monolith until you have a reason to refactor it into a seperately deployable component. It was
