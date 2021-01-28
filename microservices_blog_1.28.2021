@@ -1,4 +1,5 @@
-# Microservices Gartner Report
+Microservices Gartner Report
+
 I found the Gartner Microservice report to be really interesting and informational. I liked how the
 blog began by stating the 3 main goals of microservice architecture; development agility, deployment
 flexibility, and precise scalability, and then also went into great detail explaining each goal. What 
@@ -26,6 +27,6 @@ cart and check-out, and microservices for product display.
 I also really liked the diagram found on page 16 of how one should go about deploying a microservice. From last class, I was
 a little confused as to how companies like Netflix would even start to go about breaking down everything, but as the diagram states,
 you start from a monolithic tier, and then continously break down into finer grained capabilites. A company would start out by using
-microservices, they would break down features as needed. I also liked how at the end of the report, there was a list of different suppliers of MSA tools, 
-frameworks, libraries and management technologies. Many of these are quite new (AWS), so it's interesting to see how an immature infrastucture
-is being used by major corporations (and the different ways they employ it).
+microservices, they would break down features as needed. I also liked how at the end of the report, there was a list of different supplier
+of MSA tools, frameworks, libraries and management technologies. Many of these are quite new (AWS), so it's interesting to see how an 
+immature infrastucture is being used by major corporations (and the different ways they employ it).
