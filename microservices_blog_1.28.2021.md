@@ -12,7 +12,7 @@ with high traffic volumes, major competition and quick delivery of new features 
 deal with, but the report states that even though they may not deal with the issues the large companies face,
 they still need to be able to continously deliver to the client/customers. Anything with tech needs to be updated
 somewhat frequently (otherwise it gets outdated quickly), so the CD software delivery mindset makes sense to use
-with microservice architecture. 
+with microservice/miniservice architecture. 
 
 I also liked how the blog explained the difference in granularities between Microservices, Miniservices and Macroservices.
 I think last class we really drove home the great features of microservices, so I was left wondering why any company wouldn't
