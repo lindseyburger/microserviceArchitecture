@@ -1,4 +1,4 @@
-#Microservices Gartner Report
+Microservices Gartner Report
 
 I found the Gartner Microservice report to be really interesting and informational. I liked how the
 blog began by stating the 3 main goals of microservice architecture; development agility, deployment
