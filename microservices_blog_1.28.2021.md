@@ -19,7 +19,7 @@ I think last class we really drove home the great features of microservices, so 
 use this architecture, so it was interesting to see the pros/cons and usages of each service granularity. Something that Gartner states
 that stood out to me was "When building a new application, you should implement most capabilities as coarse-grained miniservices,
 unless you have a compelling arcitectural reason to adopt coarser- or finer-grained granularity. When rearchitecting an existing
-application, leave functionality in the monolith until you have a reason to refactor it into a seperately deployable component. It was
+application, leave functionality in the monolith until you have a reason to refactor it into a seperately deployable component". It was
 also very interesting to see how the 3 different services can work together. I really liked the diagram shown on page 7
 that displays the different usages on an E-commerce application user interface; macroservices for shipping, miniservices for
 cart and check-out, and microservices for product display. 
