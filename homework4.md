@@ -1,5 +1,6 @@
 Advantages of virtual machines:
--Make computing more efficient
+
+-Makes computing more efficient
 	-Do not need full resources of a single machine
 -Using many VM’s on a physical machine helps to reduce stranded capacity
 	-VM’s use only what they require 
@@ -18,9 +19,13 @@ Advantages of containers:
 	-Multiple containers cannot have dependency/version conflicts
 -Many containers can coexist on the same machine
 
+
 Why would you select a physical machine over a VM?
+
 One scenario where you might chose to use a virtual machine rather than a virtual machine is working in a job that prioritizes security and performance. Financial service application may use physical machines over virtual machines because the resources on the machine are more readily available, and it’s more secure (single server contained on secure hardware, and less people using it). 
 
+
 How would cloud aid microservices?
+
 Cloud computed applications can be built using microservice architecture. Since cloud computing relies on sharing resources and achieving coherence, using microservices which are multiple components that are loosely coupled, makes the most sense. Cloud computing is still relatively new technology, so updating, modifying and changing features is an extremely important part of it. Microservices allows for this to happen. 
 Microservices also allows for cloud computing to have collections of independent services. It also allows for easier management of databases, code, and integrations. Microservices allow for breaking up services to perform single functions. The services are able communicate easily with each other via the microservice architecture.
