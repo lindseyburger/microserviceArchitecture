@@ -2,12 +2,18 @@ Advantages of virtual machines:
 
 -Makes computing more efficient
 	-Do not need full resources of a single machine
+	
 -Using many VM’s on a physical machine helps to reduce stranded capacity
 	-VM’s use only what they require 
+	
 	-Stranded capacity can be alleviated by using multiple servers, but VM’s provide better isolation than multitasking
 -Little lead time between requesting VM and using VM
+
 	-Easy to create VM and then delete VM when task is completed
+	
 -VM’s are programmable (API used to create, start, stop, modify and destroy VM’s, can write software to preform functions on large scale, not possible with physical machines)
+
+
 Advantages of containers:
 -Less wasteful with resources
 	-Fine-grained level usage, like processes
