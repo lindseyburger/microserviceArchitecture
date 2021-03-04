@@ -20,6 +20,9 @@ When I went into the container, this is the information I found:
 Containers vs VM's
 
 -Docker(containers) keeps everything (applications) separate (makes testing and deploying isolated and more efficient)
+
 -Kind of like a virtual machine, but just OS is virtualized
+
 -Container shares host OS kernel, binaries and libraries
+
 -Containers are lighter than VM’s
