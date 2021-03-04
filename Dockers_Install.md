@@ -16,3 +16,10 @@ After I clicked run, this is what popped up on my screen:
 When I went into the container, this is the information I found:
 ![Screen Shot 2021-03-04 at 3 49 26 PM](https://user-images.githubusercontent.com/49377469/110029928-12e05e00-7d03-11eb-87e5-e56f9bf3fc1e.png)
 
+
+Containers vs VM's
+
+-Docker(containers) keeps everything (applications) separate (makes testing and deploying isolated and more efficient)
+-Kind of like a virtual machine, but just OS is virtualized
+-Container shares host OS kernel, binaries and libraries
+-Containers are lighter than VM’s
